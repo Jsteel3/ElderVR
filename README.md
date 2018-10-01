@@ -14,3 +14,5 @@ A VR Tool used to help Elders with Dementia
 *08 Rescaled Blockout Rooms
 *09 Added Readme
 *10 Edited Readme
+*11 Added Niagara, 
+	Changed Location of Niagara Ribbon System
