@@ -19,3 +19,6 @@ A VR Tool used to help Elders with Dementia
 *12 Deleted (Folder) Content/Ribbon,
 	Added Input Keys,
 	Changed Input Event in AdminController_BP
+*13 Created Testing Ground map,
+	Changed Location of ProjectGameMode_BP,
+	Merge Interactable Interface together
