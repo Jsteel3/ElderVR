@@ -32,3 +32,4 @@ A VR Tool used to help Elders with Dementia
 *19 Added doors,
 	Replaced walls
 *20 Created base spline according to Top Down surface
+*21 Attempted to Add Spline Points on timely base on a static surface
