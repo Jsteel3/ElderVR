@@ -25,3 +25,7 @@ A VR Tool used to help Elders with Dementia
 *14 Reworking on Camera Possession (adapt for >2 Cameras)
 *15 Fixed level problem
 *16 Finished Rework on Camera Possession
+*17 Fixed Input for Free Roam Camera, 
+	Added controls for Vertical Movement, Zooming, Movement Speed Modifier
+*18 Fixed Input for Top Down Camera, 
+	Added controls for Zooming, Movement Speed Modifier
