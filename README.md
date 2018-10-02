@@ -29,3 +29,6 @@ A VR Tool used to help Elders with Dementia
 	Added controls for Vertical Movement, Zooming, Movement Speed Modifier
 *18 Fixed Input for Top Down Camera, 
 	Added controls for Zooming, Movement Speed Modifier
+*19 Added doors,
+	Replaced walls
+*20 Created base spline according to Top Down surface
