@@ -1,6 +1,9 @@
 # ElderVR
 A VR Tool used to help Elders with Dementia
 
+#Outside Credit
+-HDRI Haven: Spruit Sunrise
+
 *01 Scaled block out verson 1, 
 	Modeled Textures for Oven,
 	Tested on Navigation Spline Drawing,
@@ -33,3 +36,4 @@ A VR Tool used to help Elders with Dementia
 	Replaced walls
 *20 Created base spline according to Top Down surface
 *21 Attempted to Add Spline Points on timely base on a static surface
+*22 New HDRI Lighting, Floors and walls
