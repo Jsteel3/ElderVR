@@ -38,3 +38,4 @@ A VR Tool used to help Elders with Dementia
 *21 Attempted to Add Spline Points on timely base on a static surface
 *22 New HDRI Lighting, Floors and walls
 *23 Spawned Spline Actor for Spline Draw upon button click
+*24 Allowed On Click/ Hold Special key to draw spline points
