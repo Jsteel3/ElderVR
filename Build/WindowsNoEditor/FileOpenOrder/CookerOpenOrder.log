@@ -1,0 +1,1338 @@
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/Interactable_BInf.uasset" 0
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 3
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 4
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Cube.uasset" 6
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/BP_ButtonComponent.uasset" 7
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 8
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 9
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/BP_Socket.uasset" 10
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/TestCube_BP.uasset" 11
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/MAT_Outline.uasset" 12
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/NewFunctionLibrary.uasset" 13
+"../../Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 14
+"../../../../SCAD/My Personal Projects/ElderVR/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 15
+"../../../../SCAD/My Personal Projects/ElderVR/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 16
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/DirectionAndLengthSafe.uasset" 17
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/RandomRange.uasset" 18
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Emitter/EmitterChangeState.uasset" 19
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Localspace/ENiagaraCoordinateSpace.uasset" 20
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Localspace/NF_InitialParticlePosition.uasset" 21
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/ENiagaraCoordinateSpace.uasset" 22
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Localspace/NF_TransformBase.uasset" 23
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_TransformBase.uasset" 24
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Localspace/NF_TransformVector.uasset" 25
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 26
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Rotation/MultiplyQuaternion.uasset" 27
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Rotation/QuaternionToAxisAngle.uasset" 28
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 29
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/Spline/FindPositionAndTangentOnBezierSpline.uasset" 30
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Functions/System/SystemChangeState.uasset" 31
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Body_Cabinet_BaseColor.uasset" 32
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Body_Cabinet_Normal.uasset" 33
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Body_Cabinet_OcclusionRoughnessMetallic.uasset" 34
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Cabinet_Body_M.uasset" 35
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/MarbleTop.uasset" 36
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/CabinetTop_BP.uasset" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 38
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Ceiling/CeilingCabinet_CeilingCabinet_BaseColor.uasset" 39
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Ceiling/CeilingCabinet_CeilingCabinet_Normal.uasset" 40
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Ceiling/CeilingCabinet_CeilingCabinet_OcclusionRoughnessMetallic.uasset" 41
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Ceiling/CeilingCabinet_M.uasset" 42
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Ceiling/CeilingCabinet_2.uasset" 43
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Door/Cabinet_Door_Door_BaseColor.uasset" 44
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Door/Cabinet_Door_Door_Normal.uasset" 45
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Door/Cabinet_Door_Door_OcclusionRoughnessMetallic.uasset" 46
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Door/Cabinet_Door_M.uasset" 47
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Door/Cabinet_Door.uasset" 48
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/CeilingCabinet_BP.uasset" 49
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Ceiling/CeilingCabinet.uasset" 50
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Hinge/Hinge_Hinge_BaseColor.uasset" 51
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Hinge/Hinge_Hinge_Normal.uasset" 52
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Hinge/Hinge_Hinge_OcclusionRoughnessMetallic.uasset" 53
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cup/Mug/Mug_M.uasset" 54
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cup/Mug/Mug.uasset" 55
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/Curtain_BaseColor.uasset" 56
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Door/DoorAndFrame_Door_BaseColor.uasset" 57
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Door/DoorAndFrame_Door_Normal.uasset" 58
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Door/DoorAndFrame_Door_OcclusionRoughnessMetallic.uasset" 59
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Door/Door_M.uasset" 60
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Door/Door.uasset" 61
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Knob/Metal/Knob_Knob_BaseColor.uasset" 62
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Knob/Metal/Knob_Knob_Normal.uasset" 63
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Knob/Metal/Knob_Knob_OcclusionRoughnessMetallic.uasset" 64
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Knob/Metal/KnobMetal_M.uasset" 65
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Knob/Knob.uasset" 66
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/Knob/KnobBase.uasset" 67
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/Wall_Frame_Door_Frame.uasset" 68
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/DoorAndFrameOpen_BP.uasset" 69
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/HardwoodFloor1x1.uasset" 70
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/HardwoodFloor_Wood_BaseColor.uasset" 71
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/HardwoodFloor_Wood_Normal.uasset" 72
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/HardwoodFloor_Wood_OcclusionRoughnessMetallic.uasset" 73
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/WoodFloor_M.uasset" 74
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/HardwoodFloor4x4.uasset" 75
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/WoodFloor_M_Inst.uasset" 76
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/WoodFloor_M_Inst1.uasset" 77
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/WoodFloor_M_Inst2.uasset" 78
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/KitchenTile/Blue/Wall_KitchenTileBlue_BaseColor.uasset" 79
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/KitchenTile/Blue/Wall_KitchenTileBlue_Normal.uasset" 80
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/KitchenTile/Blue/Wall_KitchenTileBlue_OcclusionRoughnessMetallic.uasset" 81
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/KitchenTile/Blue/KitchenTile_M.uasset" 82
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/KitchenTile/Blue/KitchenTile_M_Inst.uasset" 83
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Meshes/CubeMaterial.uasset" 84
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 85
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Meshes/TemplateFloor.uasset" 86
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/KettleTogether_Body_BaseColor.uasset" 87
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/KettleTogether_Body_Normal.uasset" 88
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/KettleTogether_Body_OcclusionRoughnessMetallic.uasset" 89
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/KettleTogether_M.uasset" 90
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/KettleBody.uasset" 91
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/KettleTogether_Body_BaseColor.uasset" 92
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/KettleTogether_Body_Normal.uasset" 93
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/KettleTogether_Body_OcclusionRoughnessMetallic.uasset" 94
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/KettleTogether_M.uasset" 95
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 96
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/GeneralControls_Binf.uasset" 97
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/PlacableAttribute_STUC.uasset" 98
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/PlacableMain_BP.uasset" 99
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/BP_Moveable.uasset" 100
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 101
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/BP_Pickupables.uasset" 102
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/Kettle_Top.uasset" 103
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/KettleBody.uasset" 104
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Kettle/Kettle_BP.uasset" 105
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 106
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Interfaces/AnimBodyInterface.uasset" 107
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Interfaces/LeapCameraOwnerInterface.uasset" 108
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/BP_FreeRoam.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 112
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 115
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/MF_OccludedPixels.uasset" 116
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/TeleportMCP.uasset" 117
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 118
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/M_SplineArcMat.uasset" 119
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/Ribbon_M.uasset" 120
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/Ribbon_In_M.uasset" 121
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 122
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 123
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uasset" 124
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 125
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_InitialParticlePosition.uasset" 126
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 127
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 128
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/QuaternionToAxisAngle.uasset" 129
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 130
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 131
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_TransformVector.uasset" 132
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/AccelerationForce.uasset" 133
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/UpdateAge.uasset" 134
+"../../Plugins/FX/Niagara/Content/Functions/Spline/FindPositionAndTangentOnBezierSpline.uasset" 135
+"../../Plugins/FX/Niagara/Content/Modules/Update/Splines/SampleBezierSplineLocationAndTangent.uasset" 136
+"../../Plugins/FX/NiagaraExtras/Content/Modules/Spawn/Location/PointSpiralLocation.uasset" 137
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/Ribbon_NEmit.uasset" 138
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Transforms/TransformVector.uasset" 139
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 140
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uasset" 141
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/Trail_NSys.uasset" 142
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Meshes/BeamMesh.uasset" 143
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/Ribbon/SplineTrail_BP.uasset" 144
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/BP_TopDown.uasset" 145
+"../../../../SCAD/My Personal Projects/ElderVR/Content/BluePrint/IntearactActors/BP_Plug.uasset" 146
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/BP_VRPlayer.uasset" 147
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/BP_AdminController.uasset" 148
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Utility/DebugHandUtility.uasset" 149
+"../../Plugins/Runtime/LeapMotion/Content/Materials/Icon128.uasset" 150
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/LeapConnectors/LeapAnimBodyConnector.uasset" 151
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 152
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 153
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/FloatingHands/LeapComponentFinger.uasset" 154
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/FloatingHands/LeapComponentHand.uasset" 155
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Interfaces/LeapHandVisibilityInterface.uasset" 156
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.uasset" 157
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/FloatingHands/LeapComponentHandsActor.uasset" 158
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Interfaces/LeapMeshSocketQueryInterface.uasset" 159
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 160
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/hands_lo_Skeleton.uasset" 161
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/LeapEchoImageHands_AnimBlueprint.uasset" 162
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Interfaces/LeapImageLinkInterface.uasset" 163
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVRemap_0-1_ToRange.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 165
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 166
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 167
+"../../Plugins/Runtime/LeapMotion/Content/Materials/MF_HSplitCenterCrop.uasset" 168
+"../../Plugins/Runtime/LeapMotion/Content/Materials/LeapPassthroughPostProcess.uasset" 169
+"../../../Engine/Content/EngineResources/Black.uasset" 170
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Utility/PostProcessChanger.uasset" 171
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/LeapConnectors/LeapAnimBodyConnectorWithPassthrough.uasset" 172
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/hand_mat.uasset" 173
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/echo_lo_L_PhysicsAsset.uasset" 174
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/echo_lo_L.uasset" 175
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/echo_lo_R_PhysicsAsset.uasset" 176
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/echo_lo_R.uasset" 177
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 180
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 181
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 183
+"../../Plugins/Runtime/LeapMotion/Content/Materials/MF_HSplitCenterCropSurface.uasset" 184
+"../../Plugins/Runtime/LeapMotion/Content/Materials/LeapImageHandMaterial.uasset" 185
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.uasset" 186
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/LeapMotion.uasset" 187
+"../../Plugins/Runtime/LeapMotion/Content/Character/Echo/LeapEchoHands_AnimBlueprint.uasset" 188
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Character/LeapHands.uasset" 189
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/Kettle_BP.uasset" 190
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Kettle/Kettle_Top.uasset" 191
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Rug/Rug_Rug_BaseColor.uasset" 192
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Rug/RugOpacity2.uasset" 193
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Rug/Rug_M.uasset" 194
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Rug/Rug.uasset" 195
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Rug/RugOpacity.uasset" 196
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/faucetTogether_low_Faucet_BaseColor.uasset" 197
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/faucetTogether_low_Faucet_Normal.uasset" 198
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/faucetTogether_low_Faucet_OcclusionRoughnessMetallic.uasset" 199
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Faucet_M.uasset" 200
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/FaucetBody.uasset" 201
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/FaucetHandle.uasset" 202
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Faucet_BP.uasset" 203
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Glass/StoveGlass_Base_Color.uasset" 204
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Glass/StoveGlass_Metallic.uasset" 205
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Glass/StoveGlass_Roughness.uasset" 206
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Grill/Stove_Grill_initialShadingGroup_BaseColor.uasset" 207
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/TopBottom/Middle_Top_Bottom_StoveMiddle_TopBot_BaseColor.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 211
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 213
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset" 214
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset" 215
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset" 216
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset" 217
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset" 218
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset" 219
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset" 220
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset" 221
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset" 222
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset" 223
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset" 224
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Box.uasset" 225
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_BoxCentered.uasset" 226
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs.uasset" 227
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Blueprints/S_SuperGridGroup.uasset" 228
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/Templates/T_SGGroup.uasset" 229
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_FavIcon.uasset" 230
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/SM_Star.uasset" 231
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Blueprints/SuperGrid_Group.uasset" 232
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Basic/Layout_LocalSides.uasset" 233
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Basic/Layout_WorldSides.uasset" 234
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Orientation.uasset" 235
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_Auto.uasset" 236
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderFull.uasset" 237
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Blueprints/SuperGrid_Wall.uasset" 238
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DefaultBlack.uasset" 239
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/Templates/T_SGLogo.uasset" 240
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Blueprints/SuperGrid_Master.uasset" 241
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_4ColorBasic.uasset" 242
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/UV/UV_WorldScalable.uasset" 243
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/UV/UV_CustomTexture.uasset" 244
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_Panels_M.uasset" 245
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_Panels_N.uasset" 246
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_PanelCustom.uasset" 247
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelRed.uasset" 248
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelWhite.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset" 250
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/UV/UV_CustomPanner.uasset" 251
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_Distortion_N.uasset" 252
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_HoloRefract.uasset" 253
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Holographic/M_SuperGrid_HoloRefract_Cyan.uasset" 254
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateGrid.uasset" 255
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateHuman.uasset" 256
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Template.uasset" 257
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Templates/M_SuperGrid_Te_Human.uasset" 258
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_BoxHighRes.uasset" 259
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_Hexagon_M.uasset" 260
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/Shake_Landing_Normal.uasset" 261
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/Shake_Landing_Weak.uasset" 262
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/SimpleChop_B.uasset" 263
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_DoubleJump.uasset" 264
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Footstep_Stone1_0.uasset" 265
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Footstep_Stone2_0.uasset" 266
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Footstep.uasset" 267
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Jump.uasset" 268
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Footstep_Concrete_0.uasset" 269
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Landing.uasset" 270
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/MetalStepA.uasset" 271
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_MetalStep.uasset" 272
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/FirstPerson/FirstPersonCharacter.uasset" 273
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/FirstPerson/FirstPersonController.uasset" 274
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Textures/T_Crosshair_A.uasset" 275
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/FirstPerson/FirstPersonHUD.uasset" 276
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_TutOrient.uasset" 277
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_CustomMetal_M.uasset" 278
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_CustomMetal_N.uasset" 279
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/PhysMat_Metal.uasset" 280
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_MetalCustom.uasset" 281
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_PlateB.uasset" 282
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Attenuation_Distant.uasset" 283
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/distant-explosion-a.uasset" 284
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/distant-explosion-b.uasset" 285
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Explosions.uasset" 286
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/DigitalWhoosh_Soft.uasset" 287
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/MetalStepB.uasset" 288
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/PingBing.uasset" 289
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/SimpleChop_A.uasset" 290
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Grid.uasset" 291
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset" 292
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_LightPulse.uasset" 293
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_LightPulse_Inst.uasset" 294
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Refract.uasset" 295
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Refract_Inst.uasset" 296
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Table/TableFull_Table_BaseColor.uasset" 297
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Table/TableFull_Table_Normal.uasset" 298
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Table/TableFull_Table_OcclusionRoughnessMetallic.uasset" 299
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Table/Table_M.uasset" 300
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Table/TableFull.uasset" 301
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Table/TableFull_DM.uasset" 302
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/TV/TV_Simple.uasset" 303
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_BaseColor.uasset" 304
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_Normal.uasset" 305
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_OcclusionRoughnessMetallic.uasset" 306
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_M.uasset" 307
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_M_Blue_Inst1.uasset" 308
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_M_Blue_Inst.uasset" 309
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_M_Blue_Inst_Inst.uasset" 310
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim_Trim_BaseColor.uasset" 311
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim_Trim_Normal.uasset" 312
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim_Trim_OcclusionRoughnessMetallic.uasset" 313
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim_M.uasset" 314
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallCorner.uasset" 315
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WoodFloor/Wall_Wood_BaseColor.uasset" 316
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WoodFloor/Wall_Wood_Normal.uasset" 317
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WoodFloor/Wall_Wood_OcclusionRoughnessMetallic.uasset" 318
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WoodFloor/WoodWall_M.uasset" 319
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 320
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Lights/EditorSkySphere.uasset" 321
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Emitter/EmitterLifeCycle.uasset" 322
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Emitter/SpawnRate.uasset" 323
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 324
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Spawn/Location/PointSpiralLocation.uasset" 325
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/System/SystemLifeCycle.uasset" 326
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Update/Color/Color.uasset" 327
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Update/Forces/AccelerationForce.uasset" 328
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Update/Lifetime/UpdateAge.uasset" 329
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Modules/Update/Splines/SampleBezierSplineLocationAndTangent.uasset" 330
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Closing/Cabinet_Door_Closing_01.uasset" 331
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Closing/Cabinet_Door_Closing_02.uasset" 332
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Closing/Cabinet_Door_Closing_03.uasset" 333
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Cabinet_Door_Closing_Cue.uasset" 334
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Opening/Cabinet_Door_Opening_01.uasset" 335
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Opening/Cabinet_Door_Opening_02.uasset" 336
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Cabinet_Door_Opening_Cue.uasset" 337
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Cabinet/Opening/Cabinet_Door_Opening_03.uasset" 338
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Door/Door_Wood_SmallCreak_SE.uasset" 339
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Door/Door_Wood_SmallCreak_SE_Cue.uasset" 340
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Door/Handle/Door_Handle_01_SE.uasset" 341
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Door/Handle/Door_Handle_02_SE.uasset" 342
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Door/Handle/Door_Handle_Cue.uasset" 343
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Close/Drawer_Close_01_SE.uasset" 344
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Close/Drawer_Close_02_SE.uasset" 345
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Close/Drawer_Close_03_SE.uasset" 346
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Drawer_Close_Cue.uasset" 347
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Sliding/Drawer_Sliding_01_SE.uasset" 348
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Sliding/Drawer_Sliding_02_SE.uasset" 349
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Sliding/Drawer_Sliding_03_SE.uasset" 350
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Drawer/Drawer_Sliding_Cue.uasset" 351
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Oven_Button_01_SE.uasset" 352
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Oven_Door_Close_SE.uasset" 353
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Oven_Door_Closing_SE.uasset" 354
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Oven_Door_Open_SE.uasset" 355
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Rack/Oven_Rack_Slide_01_SE.uasset" 356
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Rack/Oven_Rack_Slide_02_SE.uasset" 357
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Sound/Effects/Oven/Oven_Rack_Slide_Cue.uasset" 358
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Basic_Wall.uasset" 359
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Pillar_50x500.uasset" 360
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_400x300.uasset" 361
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_400x400.uasset" 362
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_500x500.uasset" 363
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 364
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 365
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Collapse01.uasset" 366
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Collapse02.uasset" 367
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Explosion01.uasset" 368
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Explosion02.uasset" 369
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Fire01.uasset" 370
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Fire_Sparks01.uasset" 371
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Light01.uasset" 372
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Light01_Cue.uasset" 373
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Light02.uasset" 374
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Light02_Cue.uasset" 375
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Smoke01.uasset" 376
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Starter_Birds01.uasset" 377
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Starter_Music01.uasset" 378
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Starter_Wind05.uasset" 379
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Starter_Wind06.uasset" 380
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Steam01.uasset" 381
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Explosion_Cue.uasset" 382
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Burst_M.uasset" 383
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_Burst.uasset" 384
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 385
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 386
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 388
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 389
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 390
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 391
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 392
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/P_Explosion.uasset" 393
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 394
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 395
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 396
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Bush_D.uasset" 397
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Bush_N.uasset" 398
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Bush.uasset" 399
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Bush.uasset" 400
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Chair_M.uasset" 401
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Chair_N.uasset" 402
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Chair.uasset" 403
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Couch.uasset" 404
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Glass.uasset" 405
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Door_M.uasset" 406
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Door_N.uasset" 407
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Door.uasset" 408
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Door.uasset" 409
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 410
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 411
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 412
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 413
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 414
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 415
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_RockMesh_M.uasset" 416
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_RockMesh_N.uasset" 417
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Rock.uasset" 418
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Rock.uasset" 419
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Shelf_M.uasset" 420
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Shelf_N.uasset" 421
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Shelf.uasset" 422
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Shelf.uasset" 423
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Basic_Floor.uasset" 424
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Stairs.uasset" 425
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Cone.uasset" 426
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 427
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 428
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Pipe.uasset" 429
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 430
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 431
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Plane.uasset" 432
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Torus.uasset" 433
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Trim.uasset" 434
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 435
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 436
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 437
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Tube.uasset" 438
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 439
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 440
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 441
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/LeapMotionGameMode_BP.uasset" 442
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/TPPModular_Skeleton.uasset" 443
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/Jump_End.uasset" 444
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/Jump_Loop.uasset" 445
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/Jump_Start.uasset" 446
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/Idle.uasset" 447
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/Run.uasset" 448
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/Walk.uasset" 449
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/IdleRun_TPP.uasset" 450
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/BasicCharacter_AnimBlueprint.uasset" 451
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/M_ArcEndpoint.uasset" 452
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/M_TeleportPreviews.uasset" 453
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 454
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 455
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Meshes/1x1_cube.uasset" 456
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Meshes/BeaconDirection.uasset" 457
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Meshes/SM_FatCylinder.uasset" 458
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/NewLeapFloatingHandsCharacter_BP.uasset" 459
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 460
+"../../../Engine/Content/BasicShapes/Cone.uasset" 461
+"../../../Engine/Content/BasicShapes/Plane.uasset" 462
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 463
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 464
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 465
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 466
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 467
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 468
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 469
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 470
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 471
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 472
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 473
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 474
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 475
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 476
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 477
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 478
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 479
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 480
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 481
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 482
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 483
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 484
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 485
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 486
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 487
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 488
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 489
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 490
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 491
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 492
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 493
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 494
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 495
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 496
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 497
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 498
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 499
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 500
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 501
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 502
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 503
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 504
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 505
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 506
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 507
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 508
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 509
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 510
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 511
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 512
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 513
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 514
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 515
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 516
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 517
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 518
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 519
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 520
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 521
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 522
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 523
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 524
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 525
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 526
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 527
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 528
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 529
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 530
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 531
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 532
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 533
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 534
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 535
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 536
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 537
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 538
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 539
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 540
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 541
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 542
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 543
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 544
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 545
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 546
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 547
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 548
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 549
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 550
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 551
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 552
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 553
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 554
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 555
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 556
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 557
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 558
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 559
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 560
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 561
+"../../../Engine/Content/EngineSounds/Master.uasset" 562
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 563
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 564
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 565
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 566
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 567
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 568
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 569
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 570
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 571
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 572
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 573
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 574
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 575
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 576
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 577
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 578
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 579
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 580
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 581
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 582
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 583
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 584
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 585
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 586
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 587
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 588
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 589
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 590
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 591
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 592
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 593
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 594
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 595
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 596
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 597
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 598
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 599
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 600
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 601
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 602
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Bool/ENiagaraBooleanLogicOps.uasset" 603
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/ENiagaraOrientationAxis.uasset" 604
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 605
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 606
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 607
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 608
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 609
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 610
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 611
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 612
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 613
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 614
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 615
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 616
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 617
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 618
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 619
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 620
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 621
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 622
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 623
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 624
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 625
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 626
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 627
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_ModernGrid_M.uasset" 628
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_ModernGrid_N.uasset" 629
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Modern.uasset" 630
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernDark.uasset" 631
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernLight.uasset" 632
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernNeutral.uasset" 633
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_MultiColor.uasset" 634
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_DotGrid_M.uasset" 635
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_DotGrid_N.uasset" 636
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor.uasset" 637
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_StoneGrid_M.uasset" 638
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_StoneGrid_N.uasset" 639
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_GlowingLava.uasset" 640
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalDark.uasset" 641
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalGlow.uasset" 642
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalLight.uasset" 643
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_Soil.uasset" 644
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_Stone.uasset" 645
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_BlackSheet.uasset" 646
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Chess.uasset" 647
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_MultiColor.uasset" 648
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DangerZone.uasset" 649
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DoubleColor.uasset" 650
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_White.uasset" 651
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Holographic.uasset" 652
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Holographic/M_SuperGrid_Holo_Color.uasset" 653
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Holographic/M_SuperGrid_Holo_Mono.uasset" 654
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_HoloB.uasset" 655
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/PhysMat_Plastic.uasset" 656
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Red.uasset" 657
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Arch1.uasset" 658
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Arch2.uasset" 659
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Cone.uasset" 660
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CornerInner.uasset" 661
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderBend.uasset" 662
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderHalf.uasset" 663
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderQuarter.uasset" 664
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Hexagon.uasset" 665
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Plane.uasset" 666
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Pyramide.uasset" 667
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingFull.uasset" 668
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingPiece.uasset" 669
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingQuarter.uasset" 670
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox22.uasset" 671
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox35.uasset" 672
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox45.uasset" 673
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Slope.uasset" 674
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Stairs.uasset" 675
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Default.uasset" 676
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_CylinderTop.uasset" 677
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Helper.uasset" 678
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_ExclamationMark.uasset" 679
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Light.uasset" 680
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_LightC.uasset" 681
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_GroundBox.uasset" 682
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_Helper.uasset" 683
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_LightCone.uasset" 684
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_LightCone.uasset" 685
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_ShowBox.uasset" 686
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Meshes/Utility_SmallRing.uasset" 687
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Overview.umap" 688
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/Curve_Transition.uasset" 689
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/HighlightFont.uasset" 690
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_MetalCyanB.uasset" 691
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/ShortPing.uasset" 692
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Transition.uasset" 693
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Showcase.uasset" 694
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_SuperGridLogo.uasset" 695
+"../../Plugins/Runtime/LeapMotion/Content/Materials/MI_Template_BaseYellow.uasset" 696
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/BasicBody_Physics.uasset" 697
+"../../Plugins/Runtime/LeapMotion/Content/Character/Basic/BasicBody.uasset" 698
+"../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/LeapBasicRiggedCharacter.uasset" 699
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/FirstPerson/FirstPersonGameMode.uasset" 700
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_HoloBlue.uasset" 701
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_MetalNeutral.uasset" 702
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_WhiteA.uasset" 703
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Ceiling.uasset" 704
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_BigGrid.uasset" 705
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_BlueB.uasset" 706
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_DangerZone.uasset" 707
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Holo_Tiny.uasset" 708
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_LightB.uasset" 709
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_MetalCyanA.uasset" 710
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_MetalOrange.uasset" 711
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Oriented.uasset" 712
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_RetroA.uasset" 713
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_RetroB.uasset" 714
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Rocky.uasset" 715
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_SmallGrid.uasset" 716
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Channel.uasset" 717
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_B_4.uasset" 718
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_R.uasset" 719
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Attenuation_Portals.uasset" 720
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/SubOceano_A.uasset" 721
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/SubOceano_B.uasset" 722
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Portals.uasset" 723
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Conveyor.uasset" 724
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_WhiteB.uasset" 725
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CornerOuter.uasset" 726
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Corner.uasset" 727
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_DemoScale.uasset" 728
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/Curve_ElevatorDown.uasset" 729
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/Curve_ElevatorUp.uasset" 730
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Platform.uasset" 731
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Attenuation_Default.uasset" 732
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/MechClamp.uasset" 733
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cue_Lift.uasset" 734
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Elevator.uasset" 735
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_FloatingCube.uasset" 736
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_HoloLightFunction.uasset" 737
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_HoloA.uasset" 738
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_HoloC.uasset" 739
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_LightCone_Red.uasset" 740
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/PixelInWorldUnits.uasset" 741
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/WorldUnitsInPixel.uasset" 742
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Particles/ParticleDOF.uasset" 743
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_SquareParticle.uasset" 744
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Particles/P_Sphere.uasset" 745
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Attenuation_Orb.uasset" 746
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cinematic_deep_tremor.uasset" 747
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_FloatingSphere.uasset" 748
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Floor.uasset" 749
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_LightA.uasset" 750
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Lamp.uasset" 751
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Helper_Disabled.uasset" 752
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Helper_Enabled.uasset" 753
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Textures/T_CircleDecal_A.uasset" 754
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_UtilityDecal.uasset" 755
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_UtilityDecal_Enabled.uasset" 756
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_LearningPoint.uasset" 757
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_LightSphere.uasset" 758
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_BlueA.uasset" 759
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/MechClank.uasset" 760
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Platform.uasset" 761
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_StarParticle.uasset" 762
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Textures/T_StarCircle.uasset" 763
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_StarCircle.uasset" 764
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Particles/P_Star.uasset" 765
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_RateStar.uasset" 766
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_Helper_Inst2.uasset" 767
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_ShowCase_B.uasset" 768
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_B.uasset" 769
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_B_2.uasset" 770
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_B_3.uasset" 771
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_G.uasset" 772
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_G_2.uasset" 773
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_G_3.uasset" 774
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_G_4.uasset" 775
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_R_2.uasset" 776
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_R_3.uasset" 777
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_R_4.uasset" 778
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_Rough.uasset" 779
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_Rough_2.uasset" 780
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_Rough_3.uasset" 781
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/MaterialInstances/M_Utility_Channel_Rough_4.uasset" 782
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_TextureShowcase.uasset" 783
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_Walls.uasset" 784
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/LevelElements/BP_WallsWindowed.uasset" 785
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/S_UpdateNotes.uasset" 786
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/Update_Notes_11.uasset" 787
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/UpdateNotes_101.uasset" 788
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/UpdateNotes_102.uasset" 789
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/W_ChangeLog_Item.uasset" 790
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/W_ChangeLog.uasset" 791
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Blueprints/UserInterface/BP_ChangeLog.uasset" 792
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/StarterTutorial_BuiltData.uasset" 793
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_ConcreteWall_M.uasset" 794
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_ConcreteWall_N.uasset" 795
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_ConcreteWall_R.uasset" 796
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Architectural.uasset" 797
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_Tutorial.uasset" 798
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_PureBlack.uasset" 799
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 800
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 801
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 802
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/M_Tut_DocMaterial.uasset" 803
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_LightPillar.uasset" 804
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Utility_DemoFloat.uasset" 805
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_Architectural_Black.uasset" 806
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_Hexagon_N.uasset" 807
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_HexagonRandom.uasset" 808
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Hexagon.uasset" 809
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrange.uasset" 810
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrangeC.uasset" 811
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonRed.uasset" 812
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_Dark.uasset" 813
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_White.uasset" 814
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelDark.uasset" 815
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalDark3.uasset" 816
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateBarrel.uasset" 817
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Templates/M_SuperGrid_Barrel.uasset" 818
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateLlama.uasset" 819
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Templates/M_SuperGrid_Llama.uasset" 820
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_BlackA.uasset" 821
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_BlackB.uasset" 822
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_BlackC.uasset" 823
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_HoloD.uasset" 824
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_LightD.uasset" 825
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_LightE.uasset" 826
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_LightRed.uasset" 827
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_RedB.uasset" 828
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_Tut_Redc.uasset" 829
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_TutHex.uasset" 830
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/MaterialInstances/M_TutHexB.uasset" 831
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_LightColumn.uasset" 832
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_LightColumnRed.uasset" 833
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_UtilityDecal_Disabled.uasset" 834
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Textures/T_BasicGridW_M.uasset" 835
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Walkable.uasset" 836
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Ramp.uasset" 837
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 838
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_Particles_Lit.uasset" 839
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/VF_Turbulance.uasset" 840
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Particles/P_LightPillar.uasset" 841
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Materials/M_SquareParticleGlow.uasset" 842
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Particles/P_Portal.uasset" 843
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Particles/P_VolumeDust.uasset" 844
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Particles/P_VolumeDustB.uasset" 845
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Attenuation_Ambient.uasset" 846
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Cinematic_deep_rumble.uasset" 847
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/SoundEffects/Erokia_Elementary_Wave.uasset" 848
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/LUT_Chamber102.uasset" 849
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/LUT_CorridorA.uasset" 850
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/LUT_CorridorB.uasset" 851
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Misc/Reverb_Cellar.uasset" 852
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Textures/T_Bloom_A.uasset" 853
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/Utility/Textures/T_Bokeh_A.uasset" 854
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/SuperGrid/StarterPack/Tutorial/StarterTutorial.umap" 855
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Cabinet_Body.uasset" 856
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Drawer/Cabinet_Drawer_Drawer_BaseColor.uasset" 857
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Drawer/Cabinet_Drawer_Drawer_Normal.uasset" 858
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Drawer/Cabinet_Drawer_Drawer_OcclusionRoughnessMetallic.uasset" 859
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Drawer/Cabinet_Drawer_M.uasset" 860
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Drawer/Cabinet_Drawer.uasset" 861
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Cabinet_BP.uasset" 862
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Door/Cabinet_Door_Closed.uasset" 863
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Drawer/Cabinet_Drawer_Close.uasset" 864
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Cabinet_Closed_BP.uasset" 865
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Cabinet_Body_NoTop.uasset" 866
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Cabinet_Closed_NoTop_BP.uasset" 867
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Parts/Cabinet/Cabinet_TopNoSides.uasset" 868
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Cabinet/Cabinet_Closed_NoTop_BP1.uasset" 869
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Levels/NewWorld_BuiltData.uasset" 870
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Levels/NewWorld.umap" 871
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bowl/Bowl/Bowl.uasset" 872
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bowl/Bowl/Bowl_BP.uasset" 873
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/Ceiling_lamp_CeilingLamp_BaseColor.uasset" 874
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/Ceiling_lamp_CeilingLamp_Emissive.uasset" 875
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/Ceiling_lamp_CeilingLamp_Normal.uasset" 876
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/Ceiling_lamp_CeilingLamp_OcclusionRoughnessMetallic.uasset" 877
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/CeilingLamp_M.uasset" 878
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/Ceiling_lamp.uasset" 879
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Ceiling_Lamp/Ceiling_Lamp_BP.uasset" 880
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/CeralBox_Cereal_BaseColor.uasset" 881
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/CeralBox_Cereal_Normal.uasset" 882
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/CeralBox_Cereal_OcclusionRoughnessMetallic.uasset" 883
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/Cereal_M.uasset" 884
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/CerealBox.uasset" 885
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/CerealTab.uasset" 886
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/CeralBox/NewBlueprint.uasset" 887
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Chair/Chair_Chair_BaseColor.uasset" 888
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Chair/Chair_Chair_Normal.uasset" 889
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Chair/Chair_Chair_OcclusionRoughnessMetallic.uasset" 890
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Chair/Chair_M.uasset" 891
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Chair/Chair.uasset" 892
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Cushion/Seat_Cushion_Cushion_BaseColor.uasset" 893
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Cushion/Seat_Cushion_Cushion_Normal.uasset" 894
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Cushion/Seat_Cushion_Cushion_OcclusionRoughnessMetallic.uasset" 895
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Cushion/SeatCushion_M.uasset" 896
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Cushion/Seat_Cushion.uasset" 897
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Chair/Chair_BP.uasset" 898
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Couch_BaseColor.uasset" 899
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Couch_Normal.uasset" 900
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Couch_OcclusionRoughnessMetallic.uasset" 901
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_M.uasset" 902
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch.uasset" 903
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Cushion_Couch_Cushion_BaseColor.uasset" 904
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Cushion_Couch_Cushion_Normal.uasset" 905
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Cushion_Couch_Cushion_OcclusionRoughnessMetallic.uasset" 906
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Cushion_M.uasset" 907
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_Cushion.uasset" 908
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_BP.uasset" 909
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/DoorFrame/DoorAndFrame_DoorFrame_BaseColor.uasset" 910
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/DoorFrame/DoorAndFrame_DoorFrame_Normal.uasset" 911
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/DoorFrame/DoorAndFrame_DoorFrame_OcclusionRoughnessMetallic.uasset" 912
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/DoorFrame/DoorFrame_M.uasset" 913
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/Parts/DoorFrame/Door_Frame.uasset" 914
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Door/DoorAndFrame_BP.uasset" 915
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Outlet/TexturesAndSM/Outlet_Outlet_BaseColor.uasset" 916
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Outlet/TexturesAndSM/Outlet_Outlet_Normal.uasset" 917
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Outlet/TexturesAndSM/Outlet_Outlet_OcclusionRoughnessMetallic.uasset" 918
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Outlet/TexturesAndSM/Outlet_M.uasset" 919
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Outlet/TexturesAndSM/Outlet.uasset" 920
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Outlet/Outlet_Bp.uasset" 921
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink_Sink_BaseColor.uasset" 922
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink_Sink_Normal.uasset" 923
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink_Sink_OcclusionRoughnessMetallic.uasset" 924
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink_M.uasset" 925
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink_M_Inst.uasset" 926
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Cabinet_Sink.uasset" 927
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink.uasset" 928
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Sink/Sink_BP.uasset" 929
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Back/Middle_BackWall_StoveMiddle_Back_Normal.uasset" 930
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Back/Middle_BackWall_StoveMiddle_Back_OcclusionRoughnessMetallic.uasset" 931
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Back/Middle_BackWall_M.uasset" 932
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Battery/Stove_OvenHeat_Battery_BaseColor.uasset" 933
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Battery/Stove_OvenHeat_Battery_Normal.uasset" 934
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Battery/Stove_OvenHeat_Battery_OcclusionRoughnessMetallic.uasset" 935
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Battery/Stove_Battery_M.uasset" 936
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Battery/Stove_Battery.uasset" 937
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Bottom/Stove_Bottom_BaseColor.uasset" 938
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Bottom/Stove_Bottom_Normal.uasset" 939
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Bottom/Stove_Bottom_OcclusionRoughnessMetallic.uasset" 940
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Bottom/StoveBottomDrawer_M.uasset" 941
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Bottom/Stove_BottomDrawer.uasset" 942
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Base/ButtonTop_Base_BaseColor.uasset" 943
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Base/ButtonTop_Base_Normal.uasset" 944
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Base/ButtonTop_Base_OcclusionRoughnessMetallic.uasset" 945
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Base/Stove_ButtonTop_Base.uasset" 946
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Digital/TopButton_Digital_BaseColor.uasset" 947
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Digital/TopButton_Digital_Normal.uasset" 948
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Digital/TopButton_Digital_OcclusionRoughnessMetallic.uasset" 949
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Digital/Stove_TopButton_Digital.uasset" 950
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/MetalTop/StoveButtonTop_Metal_BaseColor.uasset" 951
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/MetalTop/StoveButtonTop_Metal_Normal.uasset" 952
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/MetalTop/StoveButtonTop_Metal_OcclusionRoughnessMetallic.uasset" 953
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/MetalTop/StoveTop_Metal_M.uasset" 954
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/ButtonTop/Stove_TopButton.uasset" 955
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Dial/Stove_Dial_Stove_Dial_BaseColor.uasset" 956
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Dial/Stove_Dial_Stove_Dial_Normal.uasset" 957
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Dial/Stove_Dial_Stove_Dial_OcclusionRoughnessMetallic.uasset" 958
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Dial/StoveDial_M.uasset" 959
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Dial/StoveDial.uasset" 960
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Body/Stove_Door_Cast_Iron_Body_BaseColor.uasset" 961
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Body/Stove_Door_Cast_Iron_Body_Normal.uasset" 962
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Body/Stove_Door_Cast_Iron_Body_OcclusionRoughnessMetallic.uasset" 963
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Body/StoveDoor_Body_M.uasset" 964
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Glass/StoveGlass_Opacity.uasset" 965
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Glass/StoveGlass.uasset" 966
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Door/Stove_Door.uasset" 967
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Grill/Stove_Grill_Stove_Grill_BaseColor.uasset" 968
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Grill/Stove_Grill_Stove_Grill_Normal.uasset" 969
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Grill/Stove_Grill_Stove_Grill_OcclusionRoughnessMetallic.uasset" 970
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Grill/Stove_Grill_M.uasset" 971
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Grill/Stove_Grill.uasset" 972
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Back/Middle_BackWall.uasset" 973
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Cover/Middle_Fan_Stove_FanCover_Normal.uasset" 974
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Cover/Middle_Fan_Stove_FanCover_OcclusionRoughnessMetallic.uasset" 975
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Cover/MiddleFan_Cover_M.uasset" 976
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Fan/Middle_Fan_Stove_Fan_BaseColor.uasset" 977
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Fan/Middle_Fan_Stove_Fan_Normal.uasset" 978
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Fan/Middle_Fan_Stove_Fan_OcclusionRoughnessMetallic.uasset" 979
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/Fan/Mid_Fan_M.uasset" 980
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Fan/MiddleFan.uasset" 981
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Light/lambert1.uasset" 982
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Light/StoveLight.uasset" 983
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Sides/StoveSide_StoveMiddle_Sides_BaseColor.uasset" 984
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Sides/StoveSide_StoveMiddle_Sides_Normal.uasset" 985
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Sides/StoveSide_StoveMiddle_Sides_OcclusionRoughnessMetallic.uasset" 986
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Sides/StoveMiddleSides_M.uasset" 987
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/Sides/StoveSide.uasset" 988
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/TopBottom/Middle_Top_Bottom_StoveMiddle_TopBot_Normal.uasset" 989
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/TopBottom/Middle_Top_Bottom_StoveMiddle_TopBot_OcclusionRoughnessMetallic.uasset" 990
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/TopBottom/MiddleTopBot_M.uasset" 991
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Middle/TopBottom/Middle_Top_Bottom.uasset" 992
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top_StoveTop_CeramicGlass_BaseColor.uasset" 993
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top_StoveTop_CeramicGlass_Normal.uasset" 994
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top_StoveTop_CeramicGlass_OcclusionRoughnessMetallic.uasset" 995
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/StoveTop_CeramicGlass_M.uasset" 996
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top_StoveTop_CookingArea_BaseColor.uasset" 997
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top_StoveTop_CookingArea_Normal.uasset" 998
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top_StoveTop_CookingArea_OcclusionRoughnessMetallic.uasset" 999
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/StoveTopCookingArea_M.uasset" 1000
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Parts/Top/Stove_Top.uasset" 1001
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Stove/Stove_BP.uasset" 1002
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/PlugCable_M.uasset" 1003
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Plug_Opacity.uasset" 1004
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Plug_Plug_BaseColor.uasset" 1005
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Plug_Plug_Normal.uasset" 1006
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Plug_Plug_OcclusionRoughnessMetallic.uasset" 1007
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Plug_M.uasset" 1008
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Plug/Plug.uasset" 1009
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_together_low_Body_BaseColor.uasset" 1010
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_together_low_Body_Normal.uasset" 1011
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_together_low_Body_OcclusionRoughnessMetallic.uasset" 1012
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_Body_M.uasset" 1013
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_Body.uasset" 1014
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_together_low_Plastic_BaseColor.uasset" 1015
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_together_low_Plastic_Normal.uasset" 1016
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_together_low_Plastic_OcclusionRoughnessMetallic.uasset" 1017
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_Plastic_M.uasset" 1018
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_Dial.uasset" 1019
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_leaver.uasset" 1020
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Toaster/Toaster_BP.uasset" 1021
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Fork/Fork_Fork_BaseColor.uasset" 1022
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Fork/Fork_Fork_Normal.uasset" 1023
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Fork/Fork_Fork_OcclusionRoughnessMetallic.uasset" 1024
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Fork/Fork_M.uasset" 1025
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Fork/Fork.uasset" 1026
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Fork/Fork_BP.uasset" 1027
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim2_M.uasset" 1028
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallDoorHole.uasset" 1029
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallDoor_BP.uasset" 1030
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim_high.uasset" 1031
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim_Bp.uasset" 1032
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_Double_Hung_Window_BaseColor.uasset" 1033
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_Double_Hung_Window_Normal.uasset" 1034
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_Double_Hung_Window_OcclusionRoughnessMetallic.uasset" 1035
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_Opacity.uasset" 1036
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_DoubleHung_M.uasset" 1037
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_DoubleHung_M1.uasset" 1038
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/Window_Double_Hung.uasset" 1039
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/WindowWall_2x.uasset" 1040
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Window/Window_double_hung/WindowWall_BP.uasset" 1041
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Levels/SingleStoryHouse_Map_BuiltData.uasset" 1042
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bowl/Bowl/Bowl_M.uasset" 1043
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bowl/Bowl/Bowl_M_Inst_lightPlasticBlue.uasset" 1044
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bowl/Bowl/Bowl_M_Inst_WhitePlastic.uasset" 1045
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Couch/Couch_M_Inst.uasset" 1046
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/Curtain_Normal.uasset" 1047
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/Curtain_OcclusionRoughnessMetallic.uasset" 1048
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/Curtain_M.uasset" 1049
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/Curtain_M_Inst.uasset" 1050
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/Walnut/Wall_Walnut_BaseColor.uasset" 1051
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/Walnut/Wall_Walnut_Normal.uasset" 1052
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/Walnut/Wall_Walnut_OcclusionRoughnessMetallic.uasset" 1053
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/Walnut/Wall_Walnut_M.uasset" 1054
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/Walnut/Wall_Walnut_M_Inst.uasset" 1055
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Floor/HardwoodFloor/Walnut/Wall_Walnut_M_Inst1.uasset" 1056
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_M_Inst.uasset" 1057
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall_M_Inst2.uasset" 1058
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWall1Side_M.uasset" 1059
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/PaintedWall/PaintWallSide_Blue_M_Inst.uasset" 1060
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Lights/HDRI/NewFolder/spruit_sunrise_4k.uasset" 1061
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Lights/HDRI/NewFolder/SkySphere_SpruitSunrise_HDRI_M.uasset" 1062
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Lights/HDRI/NewFolder/SkySphere_SpruitSunrise_HDRI_M_Inst.uasset" 1063
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Loaf_Bread_Loaf_BaseColor.uasset" 1064
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Loaf_Bread_Loaf_Normal.uasset" 1065
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Loaf_Bread_Loaf_OcclusionRoughnessMetallic.uasset" 1066
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Loaf_M.uasset" 1067
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Loaf.uasset" 1068
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Slice_Bread_Slice_BaseColor.uasset" 1069
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Slice_Bread_Slice_Normal.uasset" 1070
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Slice_Bread_Slice_OcclusionRoughnessMetallic.uasset" 1071
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Slice_M.uasset" 1072
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Bread/Bread_Slice.uasset" 1073
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/CurtainPole_Pole_BaseColor.uasset" 1074
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/CurtainPole_Pole_Normal.uasset" 1075
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/CurtainPole_Pole_OcclusionRoughnessMetallic.uasset" 1076
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/CurtainPole_M.uasset" 1077
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/CurtainPole_pSphere3.uasset" 1078
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Curtain/Cutain_pPlane1.uasset" 1079
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/LightSwitch/LightSwitch_LightSwitch_BaseColor.uasset" 1080
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/LightSwitch/LightSwitch_LightSwitch_Normal.uasset" 1081
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/LightSwitch/LightSwitch_LightSwitch_OcclusionRoughnessMetallic.uasset" 1082
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/LightSwitch/LightSwitch_M.uasset" 1083
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/LightSwitch/LightSwitch.uasset" 1084
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Knife/lowKnife_Knife_BaseColor.uasset" 1085
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Knife/lowKnife_Knife_Normal.uasset" 1086
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Knife/lowKnife_Knife_OcclusionRoughnessMetallic.uasset" 1087
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Knife/Knife_M.uasset" 1088
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Knife/Knife.uasset" 1089
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Spoon/Spoon_low_Spoon_BaseColor.uasset" 1090
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Spoon/Spoon_low_Spoon_Normal.uasset" 1091
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Spoon/Spoon_low_Spoon_OcclusionRoughnessMetallic.uasset" 1092
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Spoon/Spoon_M.uasset" 1093
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Utensils/Spoon/Sppon.uasset" 1094
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/Wall_Closed.uasset" 1095
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallAndFloor.uasset" 1096
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallThick.uasset" 1097
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Wall/WallTrim/WallTrim.uasset" 1098
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1099
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Levels/SingleStoryHouse_Map.umap" 1100
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/ProjectGameModeBase_BP.uasset" 1101
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Levels/TestingGround_MAP_BuiltData.uasset" 1102
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1103
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Levels/TestingGround_MAP.umap" 1104
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1105
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1106
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1107
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1108
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1109
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1110
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1111
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1112
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1113
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1114
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1115
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1116
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1117
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1118
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1119
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1120
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1121
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1122
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1123
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1124
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Maps/Advanced_Lighting.umap" 1125
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1126
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_MacroVariation.uasset" 1127
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1128
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1129
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1130
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1131
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1132
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1133
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Statue_M.uasset" 1134
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Statue_N.uasset" 1135
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1136
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Floor_400x400.uasset" 1137
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1138
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Chair.uasset" 1139
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Statue.uasset" 1140
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Statue.uasset" 1141
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_TableRound_M.uasset" 1142
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_TableRound_N.uasset" 1143
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1144
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_TableRound.uasset" 1145
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Maps/Minimal_Default.umap" 1146
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Fire01_Cue.uasset" 1147
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1148
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1149
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1150
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Water_N.uasset" 1151
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1152
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1153
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/P_Fire.uasset" 1154
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1155
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1156
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/P_Smoke.uasset" 1157
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1158
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1159
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Spark_Core.uasset" 1160
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1161
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/P_Sparks.uasset" 1162
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1163
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Steam01_Cue.uasset" 1164
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1165
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1166
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Lamp_M.uasset" 1167
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Lamp_N.uasset" 1168
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1169
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1170
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1171
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1172
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1173
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1174
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1175
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1176
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1177
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1178
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1179
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1180
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1181
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1182
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1183
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1184
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1185
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1186
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1187
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1188
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1189
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1190
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1191
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1192
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1193
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1194
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1195
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1196
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1197
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1198
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1199
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1200
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1201
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1202
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1203
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1204
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1205
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1206
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1207
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1208
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1209
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1210
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1211
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1212
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1213
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1214
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1215
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1216
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1217
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1218
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1219
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1220
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1221
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1222
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1223
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1224
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1225
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1226
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1227
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1228
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1229
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1230
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1231
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1232
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1233
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1234
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1235
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1236
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1237
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1238
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1239
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1240
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1241
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1242
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1243
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1244
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1245
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1246
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1247
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1248
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1249
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1250
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1251
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1252
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1253
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1254
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1255
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1256
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1257
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1258
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1259
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1260
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1261
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1262
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1263
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1264
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Water_Lake.uasset" 1265
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Water_M.uasset" 1266
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1267
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1268
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1269
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1270
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1272
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1273
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1274
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1275
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1276
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1277
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1278
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1279
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1280
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1281
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1282
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_400x200.uasset" 1283
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1284
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1285
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Collapse_Cue.uasset" 1286
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1287
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1288
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1289
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1290
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/MaterialSphere.uasset" 1291
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Frame_M.uasset" 1292
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Textures/T_Frame_N.uasset" 1293
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/Materials/M_Frame.uasset" 1294
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_CornerFrame.uasset" 1295
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_DoorFrame.uasset" 1296
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_GlassWindow.uasset" 1297
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_PillarFrame.uasset" 1298
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1299
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Props/SM_WindowFrame.uasset" 1300
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Cube.uasset" 1301
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1302
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1303
+"../../../../SCAD/My Personal Projects/ElderVR/Content/StarterContent/Maps/StarterMap.umap" 1304
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 1305
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 1306
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/M_BaseMaterial.uasset" 1307
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/MI_BaseMaterial2.uasset" 1308
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/MI_BaseMaterial3.uasset" 1309
+"../../../../SCAD/My Personal Projects/ElderVR/Content/Geometry/Meshes/1M_Cube.uasset" 1310
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 1311
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 1312
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/MI_SmallCubes.uasset" 1313
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 1314
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 1315
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 1316
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 1317
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 1318
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 1319
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 1320
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 1321
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 1322
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1323
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1324
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 1325
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 1326
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 1327
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 1328
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 1329
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 1330
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 1331
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 1332
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Materials/GenericHMDMaterial.uasset" 1333
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/VirtualReality/Meshes/GenericHMD.uasset" 1334
+"../../../../SCAD/My Personal Projects/ElderVR/Content/VirtualRealityBP/Maps/StartupMap.umap" 1335
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1336
+"../../../Engine/Content/Maps/Entry.umap" 1337
